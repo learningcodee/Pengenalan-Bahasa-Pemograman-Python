@@ -1,0 +1,9 @@
+# Pengenalan Bahasa Pemograman Python
+# Menampilkan ouput ke layar komputer
+print('========PYTHON======')
+print('Instagram: @andr_iian')
+print('Twitter  : @andr_iian')
+print('Github   : @learningcodee')
+#cout(C++) fungsi untuk menampilkan output ke layar komputer.
+# println(Java) fungsi untuk menampilkan ouput ke layar kompuer.
+# dan di bahasa pemograman Python kita cukup mengetik (print).
